@@ -1,0 +1,145 @@
+subject,relation,object,source_chunk_id
+OpenAI,FOUNDED_BY,Sam Altman,chunk_001
+OpenAI,FOUNDED_BY,Elon Musk,chunk_001
+OpenAI,FOUNDED_BY,Greg Brockman,chunk_001
+OpenAI,FOUNDED_BY,Ilya Sutskever,chunk_001
+OpenAI,FOUNDED_BY,Wojciech Zaremba,chunk_001
+OpenAI,FOUNDED_BY,John Schulman,chunk_001
+OpenAI,FOUNDED_IN,2015,chunk_001
+OpenAI,CREATED_PRODUCT,GPT-4,chunk_001
+OpenAI,CREATED_PRODUCT,ChatGPT,chunk_001
+OpenAI,LOCATED_IN,San Francisco,chunk_001
+OpenAI,WORKS_IN_FIELD,artificial intelligence,chunk_001
+Google,FOUNDED_BY,Larry Page and Sergey Brin,chunk_002
+Google,FOUNDED_IN,1998,chunk_002
+Google,CREATED_PRODUCT,Search,chunk_002
+Google,CREATED_PRODUCT,Gmail,chunk_002
+Google,CREATED_PRODUCT,Android,chunk_002
+Google,CREATED_PRODUCT,Google Cloud,chunk_002
+Google,CREATED_PRODUCT,YouTube,chunk_002
+Google,LOCATED_IN,Mountain View,chunk_002
+Google,WORKS_IN_FIELD,internet technology,chunk_002
+Google,WORKS_IN_FIELD,artificial intelligence,chunk_002
+Google,COMPETES_WITH,Microsoft,chunk_002
+Microsoft,FOUNDED_BY,Bill Gates and Paul Allen,chunk_003
+Microsoft,FOUNDED_IN,1975,chunk_003
+Microsoft,INVESTED_IN,OpenAI,chunk_003
+Microsoft,CREATED_PRODUCT,Azure,chunk_003
+Microsoft,CREATED_PRODUCT,Windows,chunk_003
+Microsoft,CREATED_PRODUCT,Office,chunk_003
+Microsoft,CREATED_PRODUCT,GitHub,chunk_003
+Microsoft,LOCATED_IN,Redmond,chunk_003
+Microsoft,WORKS_IN_FIELD,software and cloud computing,chunk_003
+Microsoft,ACQUIRED,LinkedIn,chunk_003
+Microsoft,FOUNDED_IN,2016,chunk_003
+Microsoft,ACQUIRED,GitHub,chunk_003
+Microsoft,FOUNDED_IN,2018,chunk_003
+Apple,FOUNDED_BY,"Steve Jobs, Steve Wozniak, Ronald Wayne",chunk_004
+Apple,FOUNDED_IN,1976,chunk_004
+Apple,CREATED_PRODUCT,"iPhone, iPad, Mac, Apple Watch, iOS",chunk_004
+Apple,LOCATED_IN,Cupertino,chunk_004
+Apple,WORKS_IN_FIELD,consumer electronics,chunk_004
+Apple,COMPETES_WITH,Google,chunk_004
+Amazon,FOUNDED_BY,Jeff Bezos,chunk_005
+Amazon,FOUNDED_IN,1994,chunk_005
+Amazon,CREATED_PRODUCT,AWS,chunk_005
+Amazon,CREATED_PRODUCT,Alexa,chunk_005
+Amazon,CREATED_PRODUCT,Kindle,chunk_005
+Amazon,CREATED_PRODUCT,Prime Video,chunk_005
+Amazon,LOCATED_IN,Seattle,chunk_005
+Amazon,WORKS_IN_FIELD,e-commerce,chunk_005
+Amazon,WORKS_IN_FIELD,cloud computing,chunk_005
+Amazon,COMPETES_WITH,Microsoft,chunk_005
+Amazon,COMPETES_WITH,Google,chunk_005
+Meta,FOUNDED_BY,Mark Zuckerberg,chunk_006
+Meta,FOUNDED_IN,2004,chunk_006
+Meta,CREATED_PRODUCT,Meta,chunk_006
+Meta,CREATED_PRODUCT,Instagram,chunk_006
+Meta,CREATED_PRODUCT,WhatsApp,chunk_006
+Meta,CREATED_PRODUCT,Oculus,chunk_006
+Meta,LOCATED_IN,Menlo Park,chunk_006
+Meta,WORKS_IN_FIELD,social media,chunk_006
+Meta,WORKS_IN_FIELD,virtual reality,chunk_006
+Meta,COMPETES_WITH,Google,chunk_006
+Tesla,FOUNDED_BY,Elon Musk,chunk_007
+Tesla,FOUNDED_BY,JB Straubel,chunk_007
+Tesla,FOUNDED_BY,Martin Eberhard,chunk_007
+Tesla,FOUNDED_BY,Marc Tarpenning,chunk_007
+Tesla,FOUNDED_BY,Ian Wright,chunk_007
+Tesla,FOUNDED_IN,2003,chunk_007
+Tesla,CREATED_PRODUCT,Model S,chunk_007
+Tesla,CREATED_PRODUCT,Model 3,chunk_007
+Tesla,CREATED_PRODUCT,Model X,chunk_007
+Tesla,CREATED_PRODUCT,Model Y,chunk_007
+Tesla,CREATED_PRODUCT,Autopilot,chunk_007
+Tesla,LOCATED_IN,Austin,chunk_007
+Tesla,WORKS_IN_FIELD,electric vehicles,chunk_007
+Tesla,WORKS_IN_FIELD,clean energy,chunk_007
+NVIDIA,FOUNDED_BY,Jensen Huang,chunk_008
+NVIDIA,FOUNDED_BY,Chris Malachowsky,chunk_008
+NVIDIA,FOUNDED_BY,Curtis Priem,chunk_008
+NVIDIA,FOUNDED_IN,1993,chunk_008
+NVIDIA,CREATED_PRODUCT,GeForce,chunk_008
+NVIDIA,CREATED_PRODUCT,CUDA,chunk_008
+NVIDIA,CREATED_PRODUCT,A100 GPU,chunk_008
+NVIDIA,CREATED_PRODUCT,H100 GPU,chunk_008
+NVIDIA,LOCATED_IN,Santa Clara,chunk_008
+NVIDIA,WORKS_IN_FIELD,GPU computing,chunk_008
+NVIDIA,WORKS_IN_FIELD,artificial intelligence,chunk_008
+NVIDIA,PARTNERED_WITH,Microsoft,chunk_008
+SpaceX,FOUNDED_BY,Elon Musk,chunk_009
+SpaceX,FOUNDED_IN,2002,chunk_009
+SpaceX,CREATED_PRODUCT,Falcon 9,chunk_009
+SpaceX,CREATED_PRODUCT,Starship,chunk_009
+SpaceX,CREATED_PRODUCT,Starlink,chunk_009
+SpaceX,LOCATED_IN,Hawthorne,chunk_009
+SpaceX,WORKS_IN_FIELD,aerospace and space exploration,chunk_009
+Netflix,FOUNDED_BY,Reed Hastings and Marc Randolph,chunk_010
+Netflix,FOUNDED_IN,1997,chunk_010
+Netflix,CREATED_PRODUCT,Netflix Streaming,chunk_010
+Netflix,CREATED_PRODUCT,Netflix Originals,chunk_010
+Netflix,LOCATED_IN,Los Gatos,chunk_010
+Netflix,WORKS_IN_FIELD,entertainment and streaming,chunk_010
+Netflix,COMPETES_WITH,Amazon Prime Video,chunk_010
+Samsung,FOUNDED_BY,Lee Byung-chul,chunk_011
+Samsung,FOUNDED_IN,1938,chunk_011
+Samsung,CREATED_PRODUCT,Galaxy smartphones,chunk_011
+Samsung,CREATED_PRODUCT,QLED TVs,chunk_011
+Samsung,CREATED_PRODUCT,semiconductor chips,chunk_011
+Samsung,LOCATED_IN,Seoul,chunk_011
+Samsung,WORKS_IN_FIELD,electronics and semiconductors,chunk_011
+Samsung,COMPETES_WITH,Apple,chunk_011
+IBM,FOUNDED_BY,Charles Ranlett Flint,chunk_012
+IBM,FOUNDED_IN,1911,chunk_012
+IBM,CREATED_PRODUCT,Watson,chunk_012
+IBM,CREATED_PRODUCT,IBM Cloud,chunk_012
+IBM,CREATED_PRODUCT,mainframe computers,chunk_012
+IBM,LOCATED_IN,Armonk,chunk_012
+IBM,WORKS_IN_FIELD,enterprise computing,chunk_012
+IBM,WORKS_IN_FIELD,artificial intelligence,chunk_012
+IBM,PARTNERED_WITH,Meta,chunk_012
+Intel,FOUNDED_BY,Robert Noyce,chunk_013
+Intel,FOUNDED_BY,Gordon Moore,chunk_013
+Intel,FOUNDED_IN,1968,chunk_013
+Intel,CREATED_PRODUCT,Core processors,chunk_013
+Intel,CREATED_PRODUCT,Xeon processors,chunk_013
+Intel,CREATED_PRODUCT,Arc GPUs,chunk_013
+Intel,LOCATED_IN,Santa Clara,chunk_013
+Intel,WORKS_IN_FIELD,semiconductors,chunk_013
+Intel,COMPETES_WITH,NVIDIA,chunk_013
+Intel,COMPETES_WITH,AMD,chunk_013
+Anthropic,FOUNDED_BY,Dario Amodei,chunk_014
+Anthropic,FOUNDED_BY,Daniela Amodei,chunk_014
+Anthropic,FOUNDED_IN,2021,chunk_014
+Anthropic,CREATED_PRODUCT,Claude,chunk_014
+Anthropic,CREATED_PRODUCT,Claude API,chunk_014
+Anthropic,LOCATED_IN,San Francisco,chunk_014
+Anthropic,WORKS_IN_FIELD,AI safety,chunk_014
+Google,INVESTED_IN,Anthropic,chunk_014
+Amazon,INVESTED_IN,Anthropic,chunk_014
+X.AI,FOUNDED_BY,Elon Musk,chunk_015
+X.AI,FOUNDED_IN,2023,chunk_015
+X.AI,CREATED_PRODUCT,Grok,chunk_015
+X.AI,LOCATED_IN,Austin,chunk_015
+X.AI,WORKS_IN_FIELD,artificial intelligence,chunk_015
+X.AI,COMPETES_WITH,OpenAI,chunk_015

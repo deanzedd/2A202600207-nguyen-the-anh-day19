@@ -1,0 +1,29 @@
+OpenAI was founded by Sam Altman, Elon Musk, Greg Brockman, Ilya Sutskever, Wojciech Zaremba, and John Schulman in 2015. OpenAI develops AI models such as GPT-4 and ChatGPT. OpenAI is headquartered in San Francisco and works in the field of artificial intelligence.
+
+Google was founded by Larry Page and Sergey Brin in 1998. Google created products such as Search, Gmail, Android, Google Cloud, and YouTube. Google is headquartered in Mountain View and works in the field of internet technology and artificial intelligence. Google competes with Microsoft in cloud computing.
+
+Microsoft was founded by Bill Gates and Paul Allen in 1975. Microsoft invested in OpenAI and develops products such as Azure, Windows, Office, and GitHub. Microsoft is headquartered in Redmond and works in the field of software and cloud computing. Microsoft acquired LinkedIn in 2016 and GitHub in 2018.
+
+Apple was founded by Steve Jobs, Steve Wozniak, and Ronald Wayne in 1976. Apple created products such as iPhone, iPad, Mac, Apple Watch, and iOS. Apple is headquartered in Cupertino and works in the field of consumer electronics. Apple competes with Google in the smartphone market.
+
+Amazon was founded by Jeff Bezos in 1994. Amazon created products such as AWS, Alexa, Kindle, and Prime Video. Amazon is headquartered in Seattle and works in the field of e-commerce and cloud computing. Amazon competes with Microsoft and Google in cloud services.
+
+Meta was founded by Mark Zuckerberg in 2004. Meta created products such as Facebook, Instagram, WhatsApp, and Oculus. Meta is headquartered in Menlo Park and works in the field of social media and virtual reality. Meta competes with Google in digital advertising.
+
+Tesla was founded by Elon Musk, JB Straubel, Martin Eberhard, Marc Tarpenning, and Ian Wright in 2003. Tesla created products such as Model S, Model 3, Model X, Model Y, and Autopilot. Tesla is headquartered in Austin and works in the field of electric vehicles and clean energy.
+
+NVIDIA was founded by Jensen Huang, Chris Malachowsky, and Curtis Priem in 1993. NVIDIA created products such as GeForce, CUDA, A100 GPU, and H100 GPU. NVIDIA is headquartered in Santa Clara and works in the field of GPU computing and artificial intelligence. NVIDIA partnered with Microsoft on AI infrastructure.
+
+SpaceX was founded by Elon Musk in 2002. SpaceX created products such as Falcon 9, Starship, and Starlink. SpaceX is headquartered in Hawthorne and works in the field of aerospace and space exploration.
+
+Netflix was founded by Reed Hastings and Marc Randolph in 1997. Netflix created products such as Netflix Streaming and Netflix Originals. Netflix is headquartered in Los Gatos and works in the field of entertainment and streaming. Netflix competes with Amazon Prime Video in streaming services.
+
+Samsung was founded by Lee Byung-chul in 1938. Samsung created products such as Galaxy smartphones, QLED TVs, and semiconductor chips. Samsung is headquartered in Seoul and works in the field of electronics and semiconductors. Samsung competes with Apple in the smartphone market.
+
+IBM was founded by Charles Ranlett Flint in 1911. IBM created products such as Watson, IBM Cloud, and mainframe computers. IBM is headquartered in Armonk and works in the field of enterprise computing and artificial intelligence. IBM partnered with Meta on open-source AI projects.
+
+Intel was founded by Robert Noyce and Gordon Moore in 1968. Intel created products such as Core processors, Xeon processors, and Arc GPUs. Intel is headquartered in Santa Clara and works in the field of semiconductors. Intel competes with NVIDIA in the AI chip market and competes with AMD in CPU market.
+
+Anthropic was founded by Dario Amodei and Daniela Amodei in 2021. Anthropic created products such as Claude and Claude API. Anthropic is headquartered in San Francisco and works in the field of AI safety. Google invested in Anthropic and Amazon invested in Anthropic.
+
+X.AI was founded by Elon Musk in 2023. X.AI created products such as Grok. X.AI is headquartered in Austin and works in the field of artificial intelligence. X.AI competes with OpenAI in AI development.

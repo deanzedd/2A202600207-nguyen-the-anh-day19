@@ -1,0 +1,710 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="source_chunk_id" attr.type="string"/>
+<key id="d0" for="edge" attr.name="relation" attr.type="string"/>
+<graph edgedefault="directed"><node id="OpenAI"/>
+<node id="Sam Altman"/>
+<node id="Elon Musk"/>
+<node id="Greg Brockman"/>
+<node id="Ilya Sutskever"/>
+<node id="Wojciech Zaremba"/>
+<node id="John Schulman"/>
+<node id="2015"/>
+<node id="GPT-4"/>
+<node id="ChatGPT"/>
+<node id="San Francisco"/>
+<node id="artificial intelligence"/>
+<node id="Google"/>
+<node id="Larry Page and Sergey Brin"/>
+<node id="1998"/>
+<node id="Search"/>
+<node id="Gmail"/>
+<node id="Android"/>
+<node id="Google Cloud"/>
+<node id="YouTube"/>
+<node id="Mountain View"/>
+<node id="internet technology"/>
+<node id="Microsoft"/>
+<node id="Bill Gates and Paul Allen"/>
+<node id="1975"/>
+<node id="Azure"/>
+<node id="Windows"/>
+<node id="Office"/>
+<node id="GitHub"/>
+<node id="Redmond"/>
+<node id="software and cloud computing"/>
+<node id="LinkedIn"/>
+<node id="2016"/>
+<node id="2018"/>
+<node id="Apple"/>
+<node id="Steve Jobs, Steve Wozniak, Ronald Wayne"/>
+<node id="1976"/>
+<node id="iPhone, iPad, Mac, Apple Watch, iOS"/>
+<node id="Cupertino"/>
+<node id="consumer electronics"/>
+<node id="Amazon"/>
+<node id="Jeff Bezos"/>
+<node id="1994"/>
+<node id="AWS"/>
+<node id="Alexa"/>
+<node id="Kindle"/>
+<node id="Prime Video"/>
+<node id="Seattle"/>
+<node id="e-commerce"/>
+<node id="cloud computing"/>
+<node id="Meta"/>
+<node id="Mark Zuckerberg"/>
+<node id="2004"/>
+<node id="Instagram"/>
+<node id="WhatsApp"/>
+<node id="Oculus"/>
+<node id="Menlo Park"/>
+<node id="social media"/>
+<node id="virtual reality"/>
+<node id="Tesla"/>
+<node id="JB Straubel"/>
+<node id="Martin Eberhard"/>
+<node id="Marc Tarpenning"/>
+<node id="Ian Wright"/>
+<node id="2003"/>
+<node id="Model S"/>
+<node id="Model 3"/>
+<node id="Model X"/>
+<node id="Model Y"/>
+<node id="Autopilot"/>
+<node id="Austin"/>
+<node id="electric vehicles"/>
+<node id="clean energy"/>
+<node id="NVIDIA"/>
+<node id="Jensen Huang"/>
+<node id="Chris Malachowsky"/>
+<node id="Curtis Priem"/>
+<node id="1993"/>
+<node id="GeForce"/>
+<node id="CUDA"/>
+<node id="A100 GPU"/>
+<node id="H100 GPU"/>
+<node id="Santa Clara"/>
+<node id="GPU computing"/>
+<node id="SpaceX"/>
+<node id="2002"/>
+<node id="Falcon 9"/>
+<node id="Starship"/>
+<node id="Starlink"/>
+<node id="Hawthorne"/>
+<node id="aerospace and space exploration"/>
+<node id="Netflix"/>
+<node id="Reed Hastings and Marc Randolph"/>
+<node id="1997"/>
+<node id="Netflix Streaming"/>
+<node id="Netflix Originals"/>
+<node id="Los Gatos"/>
+<node id="entertainment and streaming"/>
+<node id="Amazon Prime Video"/>
+<node id="Samsung"/>
+<node id="Lee Byung-chul"/>
+<node id="1938"/>
+<node id="Galaxy smartphones"/>
+<node id="QLED TVs"/>
+<node id="semiconductor chips"/>
+<node id="Seoul"/>
+<node id="electronics and semiconductors"/>
+<node id="IBM"/>
+<node id="Charles Ranlett Flint"/>
+<node id="1911"/>
+<node id="Watson"/>
+<node id="IBM Cloud"/>
+<node id="mainframe computers"/>
+<node id="Armonk"/>
+<node id="enterprise computing"/>
+<node id="Intel"/>
+<node id="Robert Noyce"/>
+<node id="Gordon Moore"/>
+<node id="1968"/>
+<node id="Core processors"/>
+<node id="Xeon processors"/>
+<node id="Arc GPUs"/>
+<node id="semiconductors"/>
+<node id="AMD"/>
+<node id="Anthropic"/>
+<node id="Dario Amodei"/>
+<node id="Daniela Amodei"/>
+<node id="2021"/>
+<node id="Claude"/>
+<node id="Claude API"/>
+<node id="AI safety"/>
+<node id="X.AI"/>
+<node id="2023"/>
+<node id="Grok"/>
+<edge source="OpenAI" target="Sam Altman">
+  <data key="d0">FOUNDED_BY</data>
+  <data key="d1">chunk_001</data>
+</edge>
+<edge source="OpenAI" target="Elon Musk">
+  <data key="d0">FOUNDED_BY</data>
+  <data key="d1">chunk_001</data>
+</edge>
+<edge source="OpenAI" target="Greg Brockman">
+  <data key="d0">FOUNDED_BY</data>
+  <data key="d1">chunk_001</data>
+</edge>
+<edge source="OpenAI" target="Ilya Sutskever">
+  <data key="d0">FOUNDED_BY</data>
+  <data key="d1">chunk_001</data>
+</edge>
+<edge source="OpenAI" target="Wojciech Zaremba">
+  <data key="d0">FOUNDED_BY</data>
+  <data key="d1">chunk_001</data>
+</edge>
+<edge source="OpenAI" target="John Schulman">
+  <data key="d0">FOUNDED_BY</data>
+  <data key="d1">chunk_001</data>
+</edge>
+<edge source="OpenAI" target="2015">
+  <data key="d0">FOUNDED_IN</data>
+  <data key="d1">chunk_001</data>
+</edge>
+<edge source="OpenAI" target="GPT-4">
+  <data key="d0">CREATED_PRODUCT</data>
+  <data key="d1">chunk_001</data>
+</edge>
+<edge source="OpenAI" target="ChatGPT">
+  <data key="d0">CREATED_PRODUCT</data>
+  <data key="d1">chunk_001</data>
+</edge>
+<edge source="OpenAI" target="San Francisco">
+  <data key="d0">LOCATED_IN</data>
+  <data key="d1">chunk_001</data>
+</edge>
+<edge source="OpenAI" target="artificial intelligence">
+  <data key="d0">WORKS_IN_FIELD</data>
+  <data key="d1">chunk_001</data>
+</edge>
+<edge source="Google" target="Larry Page and Sergey Brin">
+  <data key="d0">FOUNDED_BY</data>
+  <data key="d1">chunk_002</data>
+</edge>
+<edge source="Google" target="1998">
+  <data key="d0">FOUNDED_IN</data>
+  <data key="d1">chunk_002</data>
+</edge>
+<edge source="Google" target="Search">
+  <data key="d0">CREATED_PRODUCT</data>
+  <data key="d1">chunk_002</data>
+</edge>
+<edge source="Google" target="Gmail">
+  <data key="d0">CREATED_PRODUCT</data>
+  <data key="d1">chunk_002</data>
+</edge>
+<edge source="Google" target="Android">
+  <data key="d0">CREATED_PRODUCT</data>
+  <data key="d1">chunk_002</data>
+</edge>
+<edge source="Google" target="Google Cloud">
+  <data key="d0">CREATED_PRODUCT</data>
+  <data key="d1">chunk_002</data>
+</edge>
+<edge source="Google" target="YouTube">
+  <data key="d0">CREATED_PRODUCT</data>
+  <data key="d1">chunk_002</data>
+</edge>
+<edge source="Google" target="Mountain View">
+  <data key="d0">LOCATED_IN</data>
+  <data key="d1">chunk_002</data>
+</edge>
+<edge source="Google" target="internet technology">
+  <data key="d0">WORKS_IN_FIELD</data>
+  <data key="d1">chunk_002</data>
+</edge>
+<edge source="Google" target="artificial intelligence">
+  <data key="d0">WORKS_IN_FIELD</data>
+  <data key="d1">chunk_002</data>
+</edge>
+<edge source="Google" target="Microsoft">
+  <data key="d0">COMPETES_WITH</data>
+  <data key="d1">chunk_002</data>
+</edge>
+<edge source="Google" target="Anthropic">
+  <data key="d0">INVESTED_IN</data>
+  <data key="d1">chunk_014</data>
+</edge>
+<edge source="Microsoft" target="Bill Gates and Paul Allen">
+  <data key="d0">FOUNDED_BY</data>
+  <data key="d1">chunk_003</data>
+</edge>
+<edge source="Microsoft" target="1975">
+  <data key="d0">FOUNDED_IN</data>
+  <data key="d1">chunk_003</data>
+</edge>
+<edge source="Microsoft" target="OpenAI">
+  <data key="d0">INVESTED_IN</data>
+  <data key="d1">chunk_003</data>
+</edge>
+<edge source="Microsoft" target="Azure">
+  <data key="d0">CREATED_PRODUCT</data>
+  <data key="d1">chunk_003</data>
+</edge>
+<edge source="Microsoft" target="Windows">
+  <data key="d0">CREATED_PRODUCT</data>
+  <data key="d1">chunk_003</data>
+</edge>
+<edge source="Microsoft" target="Office">
+  <data key="d0">CREATED_PRODUCT</data>
+  <data key="d1">chunk_003</data>
+</edge>
+<edge source="Microsoft" target="GitHub">
+  <data key="d0">ACQUIRED</data>
+  <data key="d1">chunk_003</data>
+</edge>
+<edge source="Microsoft" target="Redmond">
+  <data key="d0">LOCATED_IN</data>
+  <data key="d1">chunk_003</data>
+</edge>
+<edge source="Microsoft" target="software and cloud computing">
+  <data key="d0">WORKS_IN_FIELD</data>
+  <data key="d1">chunk_003</data>
+</edge>
+<edge source="Microsoft" target="LinkedIn">
+  <data key="d0">ACQUIRED</data>
+  <data key="d1">chunk_003</data>
+</edge>
+<edge source="Microsoft" target="2016">
+  <data key="d0">FOUNDED_IN</data>
+  <data key="d1">chunk_003</data>
+</edge>
+<edge source="Microsoft" target="2018">
+  <data key="d0">FOUNDED_IN</data>
+  <data key="d1">chunk_003</data>
+</edge>
+<edge source="Apple" target="Steve Jobs, Steve Wozniak, Ronald Wayne">
+  <data key="d0">FOUNDED_BY</data>
+  <data key="d1">chunk_004</data>
+</edge>
+<edge source="Apple" target="1976">
+  <data key="d0">FOUNDED_IN</data>
+  <data key="d1">chunk_004</data>
+</edge>
+<edge source="Apple" target="iPhone, iPad, Mac, Apple Watch, iOS">
+  <data key="d0">CREATED_PRODUCT</data>
+  <data key="d1">chunk_004</data>
+</edge>
+<edge source="Apple" target="Cupertino">
+  <data key="d0">LOCATED_IN</data>
+  <data key="d1">chunk_004</data>
+</edge>
+<edge source="Apple" target="consumer electronics">
+  <data key="d0">WORKS_IN_FIELD</data>
+  <data key="d1">chunk_004</data>
+</edge>
+<edge source="Apple" target="Google">
+  <data key="d0">COMPETES_WITH</data>
+  <data key="d1">chunk_004</data>
+</edge>
+<edge source="Amazon" target="Jeff Bezos">
+  <data key="d0">FOUNDED_BY</data>
+  <data key="d1">chunk_005</data>
+</edge>
+<edge source="Amazon" target="1994">
+  <data key="d0">FOUNDED_IN</data>
+  <data key="d1">chunk_005</data>
+</edge>
+<edge source="Amazon" target="AWS">
+  <data key="d0">CREATED_PRODUCT</data>
+  <data key="d1">chunk_005</data>
+</edge>
+<edge source="Amazon" target="Alexa">
+  <data key="d0">CREATED_PRODUCT</data>
+  <data key="d1">chunk_005</data>
+</edge>
+<edge source="Amazon" target="Kindle">
+  <data key="d0">CREATED_PRODUCT</data>
+  <data key="d1">chunk_005</data>
+</edge>
+<edge source="Amazon" target="Prime Video">
+  <data key="d0">CREATED_PRODUCT</data>
+  <data key="d1">chunk_005</data>
+</edge>
+<edge source="Amazon" target="Seattle">
+  <data key="d0">LOCATED_IN</data>
+  <data key="d1">chunk_005</data>
+</edge>
+<edge source="Amazon" target="e-commerce">
+  <data key="d0">WORKS_IN_FIELD</data>
+  <data key="d1">chunk_005</data>
+</edge>
+<edge source="Amazon" target="cloud computing">
+  <data key="d0">WORKS_IN_FIELD</data>
+  <data key="d1">chunk_005</data>
+</edge>
+<edge source="Amazon" target="Microsoft">
+  <data key="d0">COMPETES_WITH</data>
+  <data key="d1">chunk_005</data>
+</edge>
+<edge source="Amazon" target="Google">
+  <data key="d0">COMPETES_WITH</data>
+  <data key="d1">chunk_005</data>
+</edge>
+<edge source="Amazon" target="Anthropic">
+  <data key="d0">INVESTED_IN</data>
+  <data key="d1">chunk_014</data>
+</edge>
+<edge source="Meta" target="Mark Zuckerberg">
+  <data key="d0">FOUNDED_BY</data>
+  <data key="d1">chunk_006</data>
+</edge>
+<edge source="Meta" target="2004">
+  <data key="d0">FOUNDED_IN</data>
+  <data key="d1">chunk_006</data>
+</edge>
+<edge source="Meta" target="Meta">
+  <data key="d0">CREATED_PRODUCT</data>
+  <data key="d1">chunk_006</data>
+</edge>
+<edge source="Meta" target="Instagram">
+  <data key="d0">CREATED_PRODUCT</data>
+  <data key="d1">chunk_006</data>
+</edge>
+<edge source="Meta" target="WhatsApp">
+  <data key="d0">CREATED_PRODUCT</data>
+  <data key="d1">chunk_006</data>
+</edge>
+<edge source="Meta" target="Oculus">
+  <data key="d0">CREATED_PRODUCT</data>
+  <data key="d1">chunk_006</data>
+</edge>
+<edge source="Meta" target="Menlo Park">
+  <data key="d0">LOCATED_IN</data>
+  <data key="d1">chunk_006</data>
+</edge>
+<edge source="Meta" target="social media">
+  <data key="d0">WORKS_IN_FIELD</data>
+  <data key="d1">chunk_006</data>
+</edge>
+<edge source="Meta" target="virtual reality">
+  <data key="d0">WORKS_IN_FIELD</data>
+  <data key="d1">chunk_006</data>
+</edge>
+<edge source="Meta" target="Google">
+  <data key="d0">COMPETES_WITH</data>
+  <data key="d1">chunk_006</data>
+</edge>
+<edge source="Tesla" target="Elon Musk">
+  <data key="d0">FOUNDED_BY</data>
+  <data key="d1">chunk_007</data>
+</edge>
+<edge source="Tesla" target="JB Straubel">
+  <data key="d0">FOUNDED_BY</data>
+  <data key="d1">chunk_007</data>
+</edge>
+<edge source="Tesla" target="Martin Eberhard">
+  <data key="d0">FOUNDED_BY</data>
+  <data key="d1">chunk_007</data>
+</edge>
+<edge source="Tesla" target="Marc Tarpenning">
+  <data key="d0">FOUNDED_BY</data>
+  <data key="d1">chunk_007</data>
+</edge>
+<edge source="Tesla" target="Ian Wright">
+  <data key="d0">FOUNDED_BY</data>
+  <data key="d1">chunk_007</data>
+</edge>
+<edge source="Tesla" target="2003">
+  <data key="d0">FOUNDED_IN</data>
+  <data key="d1">chunk_007</data>
+</edge>
+<edge source="Tesla" target="Model S">
+  <data key="d0">CREATED_PRODUCT</data>
+  <data key="d1">chunk_007</data>
+</edge>
+<edge source="Tesla" target="Model 3">
+  <data key="d0">CREATED_PRODUCT</data>
+  <data key="d1">chunk_007</data>
+</edge>
+<edge source="Tesla" target="Model X">
+  <data key="d0">CREATED_PRODUCT</data>
+  <data key="d1">chunk_007</data>
+</edge>
+<edge source="Tesla" target="Model Y">
+  <data key="d0">CREATED_PRODUCT</data>
+  <data key="d1">chunk_007</data>
+</edge>
+<edge source="Tesla" target="Autopilot">
+  <data key="d0">CREATED_PRODUCT</data>
+  <data key="d1">chunk_007</data>
+</edge>
+<edge source="Tesla" target="Austin">
+  <data key="d0">LOCATED_IN</data>
+  <data key="d1">chunk_007</data>
+</edge>
+<edge source="Tesla" target="electric vehicles">
+  <data key="d0">WORKS_IN_FIELD</data>
+  <data key="d1">chunk_007</data>
+</edge>
+<edge source="Tesla" target="clean energy">
+  <data key="d0">WORKS_IN_FIELD</data>
+  <data key="d1">chunk_007</data>
+</edge>
+<edge source="NVIDIA" target="Jensen Huang">
+  <data key="d0">FOUNDED_BY</data>
+  <data key="d1">chunk_008</data>
+</edge>
+<edge source="NVIDIA" target="Chris Malachowsky">
+  <data key="d0">FOUNDED_BY</data>
+  <data key="d1">chunk_008</data>
+</edge>
+<edge source="NVIDIA" target="Curtis Priem">
+  <data key="d0">FOUNDED_BY</data>
+  <data key="d1">chunk_008</data>
+</edge>
+<edge source="NVIDIA" target="1993">
+  <data key="d0">FOUNDED_IN</data>
+  <data key="d1">chunk_008</data>
+</edge>
+<edge source="NVIDIA" target="GeForce">
+  <data key="d0">CREATED_PRODUCT</data>
+  <data key="d1">chunk_008</data>
+</edge>
+<edge source="NVIDIA" target="CUDA">
+  <data key="d0">CREATED_PRODUCT</data>
+  <data key="d1">chunk_008</data>
+</edge>
+<edge source="NVIDIA" target="A100 GPU">
+  <data key="d0">CREATED_PRODUCT</data>
+  <data key="d1">chunk_008</data>
+</edge>
+<edge source="NVIDIA" target="H100 GPU">
+  <data key="d0">CREATED_PRODUCT</data>
+  <data key="d1">chunk_008</data>
+</edge>
+<edge source="NVIDIA" target="Santa Clara">
+  <data key="d0">LOCATED_IN</data>
+  <data key="d1">chunk_008</data>
+</edge>
+<edge source="NVIDIA" target="GPU computing">
+  <data key="d0">WORKS_IN_FIELD</data>
+  <data key="d1">chunk_008</data>
+</edge>
+<edge source="NVIDIA" target="artificial intelligence">
+  <data key="d0">WORKS_IN_FIELD</data>
+  <data key="d1">chunk_008</data>
+</edge>
+<edge source="NVIDIA" target="Microsoft">
+  <data key="d0">PARTNERED_WITH</data>
+  <data key="d1">chunk_008</data>
+</edge>
+<edge source="SpaceX" target="Elon Musk">
+  <data key="d0">FOUNDED_BY</data>
+  <data key="d1">chunk_009</data>
+</edge>
+<edge source="SpaceX" target="2002">
+  <data key="d0">FOUNDED_IN</data>
+  <data key="d1">chunk_009</data>
+</edge>
+<edge source="SpaceX" target="Falcon 9">
+  <data key="d0">CREATED_PRODUCT</data>
+  <data key="d1">chunk_009</data>
+</edge>
+<edge source="SpaceX" target="Starship">
+  <data key="d0">CREATED_PRODUCT</data>
+  <data key="d1">chunk_009</data>
+</edge>
+<edge source="SpaceX" target="Starlink">
+  <data key="d0">CREATED_PRODUCT</data>
+  <data key="d1">chunk_009</data>
+</edge>
+<edge source="SpaceX" target="Hawthorne">
+  <data key="d0">LOCATED_IN</data>
+  <data key="d1">chunk_009</data>
+</edge>
+<edge source="SpaceX" target="aerospace and space exploration">
+  <data key="d0">WORKS_IN_FIELD</data>
+  <data key="d1">chunk_009</data>
+</edge>
+<edge source="Netflix" target="Reed Hastings and Marc Randolph">
+  <data key="d0">FOUNDED_BY</data>
+  <data key="d1">chunk_010</data>
+</edge>
+<edge source="Netflix" target="1997">
+  <data key="d0">FOUNDED_IN</data>
+  <data key="d1">chunk_010</data>
+</edge>
+<edge source="Netflix" target="Netflix Streaming">
+  <data key="d0">CREATED_PRODUCT</data>
+  <data key="d1">chunk_010</data>
+</edge>
+<edge source="Netflix" target="Netflix Originals">
+  <data key="d0">CREATED_PRODUCT</data>
+  <data key="d1">chunk_010</data>
+</edge>
+<edge source="Netflix" target="Los Gatos">
+  <data key="d0">LOCATED_IN</data>
+  <data key="d1">chunk_010</data>
+</edge>
+<edge source="Netflix" target="entertainment and streaming">
+  <data key="d0">WORKS_IN_FIELD</data>
+  <data key="d1">chunk_010</data>
+</edge>
+<edge source="Netflix" target="Amazon Prime Video">
+  <data key="d0">COMPETES_WITH</data>
+  <data key="d1">chunk_010</data>
+</edge>
+<edge source="Samsung" target="Lee Byung-chul">
+  <data key="d0">FOUNDED_BY</data>
+  <data key="d1">chunk_011</data>
+</edge>
+<edge source="Samsung" target="1938">
+  <data key="d0">FOUNDED_IN</data>
+  <data key="d1">chunk_011</data>
+</edge>
+<edge source="Samsung" target="Galaxy smartphones">
+  <data key="d0">CREATED_PRODUCT</data>
+  <data key="d1">chunk_011</data>
+</edge>
+<edge source="Samsung" target="QLED TVs">
+  <data key="d0">CREATED_PRODUCT</data>
+  <data key="d1">chunk_011</data>
+</edge>
+<edge source="Samsung" target="semiconductor chips">
+  <data key="d0">CREATED_PRODUCT</data>
+  <data key="d1">chunk_011</data>
+</edge>
+<edge source="Samsung" target="Seoul">
+  <data key="d0">LOCATED_IN</data>
+  <data key="d1">chunk_011</data>
+</edge>
+<edge source="Samsung" target="electronics and semiconductors">
+  <data key="d0">WORKS_IN_FIELD</data>
+  <data key="d1">chunk_011</data>
+</edge>
+<edge source="Samsung" target="Apple">
+  <data key="d0">COMPETES_WITH</data>
+  <data key="d1">chunk_011</data>
+</edge>
+<edge source="IBM" target="Charles Ranlett Flint">
+  <data key="d0">FOUNDED_BY</data>
+  <data key="d1">chunk_012</data>
+</edge>
+<edge source="IBM" target="1911">
+  <data key="d0">FOUNDED_IN</data>
+  <data key="d1">chunk_012</data>
+</edge>
+<edge source="IBM" target="Watson">
+  <data key="d0">CREATED_PRODUCT</data>
+  <data key="d1">chunk_012</data>
+</edge>
+<edge source="IBM" target="IBM Cloud">
+  <data key="d0">CREATED_PRODUCT</data>
+  <data key="d1">chunk_012</data>
+</edge>
+<edge source="IBM" target="mainframe computers">
+  <data key="d0">CREATED_PRODUCT</data>
+  <data key="d1">chunk_012</data>
+</edge>
+<edge source="IBM" target="Armonk">
+  <data key="d0">LOCATED_IN</data>
+  <data key="d1">chunk_012</data>
+</edge>
+<edge source="IBM" target="enterprise computing">
+  <data key="d0">WORKS_IN_FIELD</data>
+  <data key="d1">chunk_012</data>
+</edge>
+<edge source="IBM" target="artificial intelligence">
+  <data key="d0">WORKS_IN_FIELD</data>
+  <data key="d1">chunk_012</data>
+</edge>
+<edge source="IBM" target="Meta">
+  <data key="d0">PARTNERED_WITH</data>
+  <data key="d1">chunk_012</data>
+</edge>
+<edge source="Intel" target="Robert Noyce">
+  <data key="d0">FOUNDED_BY</data>
+  <data key="d1">chunk_013</data>
+</edge>
+<edge source="Intel" target="Gordon Moore">
+  <data key="d0">FOUNDED_BY</data>
+  <data key="d1">chunk_013</data>
+</edge>
+<edge source="Intel" target="1968">
+  <data key="d0">FOUNDED_IN</data>
+  <data key="d1">chunk_013</data>
+</edge>
+<edge source="Intel" target="Core processors">
+  <data key="d0">CREATED_PRODUCT</data>
+  <data key="d1">chunk_013</data>
+</edge>
+<edge source="Intel" target="Xeon processors">
+  <data key="d0">CREATED_PRODUCT</data>
+  <data key="d1">chunk_013</data>
+</edge>
+<edge source="Intel" target="Arc GPUs">
+  <data key="d0">CREATED_PRODUCT</data>
+  <data key="d1">chunk_013</data>
+</edge>
+<edge source="Intel" target="Santa Clara">
+  <data key="d0">LOCATED_IN</data>
+  <data key="d1">chunk_013</data>
+</edge>
+<edge source="Intel" target="semiconductors">
+  <data key="d0">WORKS_IN_FIELD</data>
+  <data key="d1">chunk_013</data>
+</edge>
+<edge source="Intel" target="NVIDIA">
+  <data key="d0">COMPETES_WITH</data>
+  <data key="d1">chunk_013</data>
+</edge>
+<edge source="Intel" target="AMD">
+  <data key="d0">COMPETES_WITH</data>
+  <data key="d1">chunk_013</data>
+</edge>
+<edge source="Anthropic" target="Dario Amodei">
+  <data key="d0">FOUNDED_BY</data>
+  <data key="d1">chunk_014</data>
+</edge>
+<edge source="Anthropic" target="Daniela Amodei">
+  <data key="d0">FOUNDED_BY</data>
+  <data key="d1">chunk_014</data>
+</edge>
+<edge source="Anthropic" target="2021">
+  <data key="d0">FOUNDED_IN</data>
+  <data key="d1">chunk_014</data>
+</edge>
+<edge source="Anthropic" target="Claude">
+  <data key="d0">CREATED_PRODUCT</data>
+  <data key="d1">chunk_014</data>
+</edge>
+<edge source="Anthropic" target="Claude API">
+  <data key="d0">CREATED_PRODUCT</data>
+  <data key="d1">chunk_014</data>
+</edge>
+<edge source="Anthropic" target="San Francisco">
+  <data key="d0">LOCATED_IN</data>
+  <data key="d1">chunk_014</data>
+</edge>
+<edge source="Anthropic" target="AI safety">
+  <data key="d0">WORKS_IN_FIELD</data>
+  <data key="d1">chunk_014</data>
+</edge>
+<edge source="X.AI" target="Elon Musk">
+  <data key="d0">FOUNDED_BY</data>
+  <data key="d1">chunk_015</data>
+</edge>
+<edge source="X.AI" target="2023">
+  <data key="d0">FOUNDED_IN</data>
+  <data key="d1">chunk_015</data>
+</edge>
+<edge source="X.AI" target="Grok">
+  <data key="d0">CREATED_PRODUCT</data>
+  <data key="d1">chunk_015</data>
+</edge>
+<edge source="X.AI" target="Austin">
+  <data key="d0">LOCATED_IN</data>
+  <data key="d1">chunk_015</data>
+</edge>
+<edge source="X.AI" target="artificial intelligence">
+  <data key="d0">WORKS_IN_FIELD</data>
+  <data key="d1">chunk_015</data>
+</edge>
+<edge source="X.AI" target="OpenAI">
+  <data key="d0">COMPETES_WITH</data>
+  <data key="d1">chunk_015</data>
+</edge>
+</graph></graphml>
